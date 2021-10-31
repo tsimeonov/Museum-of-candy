@@ -9,11 +9,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktop-view.jpg)
+![](./design/desktop-view.png)
 
 ### Links
 
-- Solution URL: https://github.com/tsimeonov/Junior-_-_-Tip-Calculator-App
 - Live Site URL: https://tsimeonov.github.io/Junior-_-_-Tip-Calculator-App/
 
 ## My process
@@ -22,6 +21,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- BootStrap
+- BootStrap 5
 - Mobile-first workflow
  
