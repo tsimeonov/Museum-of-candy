@@ -9,11 +9,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktop-view.png)
+![](./Design/Desktop-view.png)
 
 ### Links
 
-- Live Site URL: https://tsimeonov.github.io/Junior-_-_-Tip-Calculator-App/
+- Live Site URL: https://tsimeonov.github.io/Museum-of-candy/
 
 ## My process
 
